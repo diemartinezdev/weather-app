@@ -4,7 +4,7 @@
 
 ## :dart:	Goals
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.4.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli)
 
 <img src="https://raw.githubusercontent.com/diemartinezdev/weather-app/main/src/assets/screenshot.png" alt="Untitled" border="0">
 
